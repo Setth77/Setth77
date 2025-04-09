@@ -22,6 +22,6 @@ Atualmente focado em desenvolvimento com *C#* e *Python*, construindo pequenos p
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://linkedin.com/in/seu-usuario)  
-- [Email](mailto:seuemail@gmail.com)
+- [Email](lexithayate.2003@gmail.com)
 ---
 *“A prática leva à evolução.”* 
