@@ -1,11 +1,27 @@
-- 👋 Hi, I’m Setth but you can calll me vinnye... 
-- 👀 I’m interested in create new tech...
-- 🌱 I’m currently learning C#...
-- 💞️ I’m looking to collaborate on the comunity...
-- 📫 How to reach me:
--  you can get contact with me via proton: anotherprofile7712@proton.me...
+## 👋 Olá! Eu sou o Vinicius
 
-<!---
-Setth77/Setth77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um desenvolvedor iniciante, apaixonado por tecnologia e em constante aprendizado.  
+Atualmente focado em desenvolvimento com *C#* e *Python*, construindo pequenos projetos para ganhar experiência prática.
+---
+## 🛠 Tecnologias que estou aprendendo
+
+- *Linguagens:* C#, Python  
+- *Ferramentas:* Visual Studio, VS Code, Git, GitHub  
+- *Conceitos:* Programação orientada a objetos, lógica de programação, versionamento de código
+---
+## 📌 Projetos em destaque
+
+- 🐍 *[Mini calculadora em Python](https://github.com/seuusuario/calculadora-python)*  
+  Projeto simples de terminal que realiza operações matemáticas básicas.
+
+- 💻 *[To-do List em C# (em progresso)](https://github.com/seuusuario/todo-csharp)*  
+  Aplicação para gerenciar tarefas, utilizando programação orientada a objetos.
+
+> ⚠ Mais projetos em breve!
+---
+## 📫 Como me encontrar
+
+- [LinkedIn](https://linkedin.com/in/seu-usuario)  
+- [Email](mailto:seuemail@gmail.com)
+---
+*“A prática leva à evolução.”* 
