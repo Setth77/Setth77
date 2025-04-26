@@ -11,7 +11,7 @@ Atualmente focado em desenvolvimento com *C#* e *Python*, construindo pequenos p
 ---
 ## 📌 Projetos em destaque
 
-- 🐍 *[Mini calculadora em Python](https://github.com/seuusuario/calculadora-python)*  
+- 🐍 *[Mini calculadora em Python](https://github.com/Setth77/Calculadora-basica-com-Tkinter)*  
   Projeto simples de terminal que realiza operações matemáticas básicas.
 
 - 💻 *[To-do List em C# (em progresso)](https://github.com/seuusuario/todo-csharp)*  
