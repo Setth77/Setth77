@@ -14,14 +14,13 @@ Atualmente focado em desenvolvimento com *C#* e *Python*, construindo pequenos p
 - 🐍 *[Mini calculadora em Python](https://github.com/Setth77/Calculadora-basica-com-Tkinter)*  
   Projeto simples de terminal que realiza operações matemáticas básicas.
 
-- 💻 *[To-do List em C# (em progresso)](https://github.com/seuusuario/todo-csharp)*  
+- 💻 *[To-do List em C# (em breve)](https://github.com/seuusuario/todo-csharp)*  
   Aplicação para gerenciar tarefas, utilizando programação orientada a objetos.
 
 > ⚠ Mais projetos em breve!
 ---
 ## 📫 Como me encontrar
-
-- [LinkedIn](https://linkedin.com/in/seu-usuario)  
+  
 - Email: (lexithayate.2003@gmail.com)
 ---
 *“A prática leva à evolução.”* 
